@@ -1,0 +1,56 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.3
+RVersion: 3.1.3
+Repos: CRAN=http://cran.rstudio.com,
+    CRANextra=http://www.stats.ox.ac.uk/pub/RWin
+
+Package: BH
+Source: CRAN
+Version: 1.55.0-3
+Hash: 1c7274ffc895d2c8f23ae98d83a912ed
+
+Package: DBI
+Source: CRAN
+Version: 0.3.1
+Hash: 3a9e85b26ec3ab570266bccb3f9de055
+
+Package: R6
+Source: CRAN
+Version: 2.0.1
+Hash: 9a3ac4e5fd8059af0fc5156bcb019bbc
+
+Package: RODBC
+Source: CRAN
+Version: 1.3-11
+Hash: 2b21fbdff5b5f60d94ec076308fee2af
+
+Package: Rcpp
+Source: CRAN
+Version: 0.11.5
+Hash: 3e452cb48f3ec8a7cf27fb9ab8624639
+
+Package: assertthat
+Source: CRAN
+Version: 0.1
+Hash: 4b419cfdc33a3019a7f3c6f0cdea6c38
+
+Package: dplyr
+Source: CRAN
+Version: 0.4.1
+Hash: 3bcfd4ae622d206d1f0cd9f1c759846d
+Requires: BH, DBI, R6, Rcpp, assertthat, lazyeval, magrittr
+
+Package: lazyeval
+Source: CRAN
+Version: 0.1.10
+Hash: 7f88a453d0b52e36ea46d9d33c6dcf90
+
+Package: magrittr
+Source: CRAN
+Version: 1.5
+Hash: 38d492cf072bc9f3c73bda2aee3d0e23
+
+Package: packrat
+Source: CRAN
+Version: 0.4.3
+Hash: 16c72d5c802629fae5a4abca901e0199
