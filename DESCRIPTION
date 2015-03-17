@@ -10,5 +10,5 @@ License: What license is it under?
 URL: https://github.com/avant-gardED/TextIO
 BugReports: https://github.com/avant-gardED/TextIO/issues
 Imports:
-  'dplyr',
-  'RODBC'
+  dplyr,
+  RODBC
