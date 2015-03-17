@@ -12,3 +12,6 @@ BugReports: https://github.com/avant-gardED/TextIO/issues
 Imports:
   dplyr,
   RODBC
+Depends:
+  dplyr,
+  RODBC
